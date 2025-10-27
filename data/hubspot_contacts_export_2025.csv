@@ -1,0 +1,401 @@
+Record ID,Email,First name,Last name,Lifecycle stage,Original source,Original source drill-down 1,Create date,Recent deal close date,Recent deal amount,Campaign,Owner,Company name,Country
+1,david.atieno1@example.com,David,Atieno,Opportunity,Organic Search,,2025-04-25 00:00:00,2025-05-21,961.78,New Store Launch,Client Success Team,BeautyWorld KE,Kenya
+2,esther.kariuki2@example.com,Esther,Kariuki,Lead,Social Media,Social Media,2025-02-07 00:00:00,,,Referral Boost,Client Success Team,BeautyWorld KE,Kenya
+3,grace.ouma3@example.com,Grace,Ouma,Marketing Qualified Lead,Social Media,Social Media,2025-07-05 00:00:00,,,Organic Search,Client Success Team,BeautyWorld KE,Kenya
+4,nancy.okello4@example.com,Nancy,Okello,Lead,Direct,,2025-08-29 00:00:00,,,New Store Launch,Client Success Team,BeautyWorld KE,Kenya
+5,lilian.maina5@example.com,Lilian,Maina,Lead,Referral,,2025-06-03 00:00:00,,,Referral Boost,Mercy Otieno,Coastal Beauty,Kenya
+6,fatuma.karanja6@example.com,Fatuma,Karanja,Opportunity,Direct,,2025-08-31 00:00:00,2025-10-08,1590.14,New Store Launch,Client Success Team,UrbanGlow,Kenya
+7,esther.otieno7@example.com,Esther,Otieno,Marketing Qualified Lead,Organic Search,,2025-06-03 00:00:00,,,Valentine Push,Jane Wanjiru,Chiffon Cosmetics,Kenya
+8,fatuma.wanyoike8@example.com,Fatuma,Wanyoike,Sales Qualified Lead,Organic Search,,2025-11-12 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,UrbanGlow,Kenya
+9,brian.atieno9@example.com,Brian,Atieno,Marketing Qualified Lead,Social Media,Social Media,2025-11-03 00:00:00,,,Chiffon Brand Awareness,John Kamau,BeautyWorld KE,Kenya
+10,joseph.okello10@example.com,Joseph,Okello,Customer,Organic Search,,2025-08-04 00:00:00,2025-09-09,2005.26,Valentine Push,John Kamau,Coastal Beauty,Kenya
+11,david.okello11@example.com,David,Okello,Opportunity,Referral,,2025-09-22 00:00:00,2025-10-18,1161.43,Holiday Promo Q4,John Kamau,BeautyWorld KE,Kenya
+12,aisha.kiptoo12@example.com,Aisha,Kiptoo,Lead,Organic Search,,2025-12-29 00:00:00,,,Referral Boost,Samuel Ndegwa,Nairobi Retailers,Kenya
+13,lilian.karanja13@example.com,Lilian,Karanja,Lead,Paid Search,Paid Search,2025-10-08 00:00:00,,,Referral Boost,Client Success Team,BeautyWorld KE,Kenya
+14,fatuma.mutua14@example.com,Fatuma,Mutua,Customer,Organic Search,,2025-04-06 00:00:00,2025-04-26,627.47,Referral Boost,Jane Wanjiru,Chiffon Cosmetics,Kenya
+15,esther.otieno15@example.com,Esther,Otieno,Sales Qualified Lead,Paid Search,Paid Search,2025-04-29 00:00:00,,,Referral Boost,John Kamau,Nairobi Retailers,Kenya
+16,nancy.kamau16@example.com,Nancy,Kamau,Lead,Email,,2025-08-11 00:00:00,,,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+17,grace.ouma17@example.com,Grace,Ouma,Sales Qualified Lead,Email,,2025-08-12 00:00:00,,,New Store Launch,Client Success Team,Nairobi Retailers,Kenya
+18,brian.maina18@example.com,Brian,Maina,Customer,Paid Search,Paid Search,2025-04-30 00:00:00,2025-05-23,1874.12,Seasonal Email,John Kamau,Coastal Beauty,Kenya
+19,joseph.kamau19@example.com,Joseph,Kamau,Opportunity,Organic Search,,2025-04-20 00:00:00,2025-05-04,1560.27,Referral Program,Client Success Team,UrbanGlow,Kenya
+20,nancy.wanyoike20@example.com,Nancy,Wanyoike,Customer,Organic Search,,2025-03-09 00:00:00,2025-04-06,1043.0,Referral Program,Samuel Ndegwa,Nairobi Retailers,Kenya
+21,grace.okello21@example.com,Grace,Okello,Opportunity,Referral,,2025-09-06 00:00:00,2025-09-21,804.99,Seasonal Email,Client Success Team,Nairobi Retailers,Kenya
+22,david.mutua22@example.com,David,Mutua,Lead,Email,,2025-01-16 00:00:00,,,New Store Launch,Jane Wanjiru,BeautyWorld KE,Kenya
+23,peter.kamau23@example.com,Peter,Kamau,Opportunity,Email,,2025-01-03 00:00:00,2025-02-18,1179.35,Referral Program,Jane Wanjiru,Coastal Beauty,Kenya
+24,peter.okello24@example.com,Peter,Okello,Lead,Paid Search,Paid Search,2025-12-12 00:00:00,,,Holiday Promo Q4,John Kamau,Coastal Beauty,Kenya
+25,fatuma.mwangi25@example.com,Fatuma,Mwangi,Customer,Direct,,2025-01-31 00:00:00,2025-02-09,2024.25,Valentine Push,John Kamau,Nairobi Retailers,Kenya
+26,peter.kamau26@example.com,Peter,Kamau,Lead,Organic Search,,2025-04-15 00:00:00,,,New Store Launch,Jane Wanjiru,Nairobi Retailers,Kenya
+27,grace.kamau27@example.com,Grace,Kamau,Opportunity,Direct,,2025-07-16 00:00:00,2025-09-03,1279.88,Referral Program,Client Success Team,BeautyWorld KE,Kenya
+28,peter.njoroge28@example.com,Peter,Njoroge,Customer,Paid Search,Paid Search,2025-07-19 00:00:00,2025-09-03,2043.0,Holiday Promo Q4,John Kamau,BeautyWorld KE,Kenya
+29,nancy.njoroge29@example.com,Nancy,Njoroge,Lead,Paid Search,Paid Search,2025-08-16 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Nairobi Retailers,Kenya
+30,michael.mutua30@example.com,Michael,Mutua,Sales Qualified Lead,Referral,,2025-09-14 00:00:00,,,Referral Boost,Samuel Ndegwa,UrbanGlow,Kenya
+31,aisha.maina31@example.com,Aisha,Maina,Marketing Qualified Lead,Organic Search,,2025-12-10 00:00:00,,,New Store Launch,Samuel Ndegwa,Nairobi Retailers,Kenya
+32,mary.wanyoike32@example.com,Mary,Wanyoike,Lead,Organic Search,,2025-03-12 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,UrbanGlow,Kenya
+33,esther.okello33@example.com,Esther,Okello,Marketing Qualified Lead,Referral,,2025-09-03 00:00:00,,,Valentine Push,Client Success Team,Coastal Beauty,Kenya
+34,david.mutua34@example.com,David,Mutua,Lead,Email,,2025-05-31 00:00:00,,,Holiday Promo Q4,Client Success Team,Coastal Beauty,Kenya
+35,mary.njoroge35@example.com,Mary,Njoroge,Lead,Direct,,2025-03-24 00:00:00,,,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+36,brian.maina36@example.com,Brian,Maina,Lead,Social Media,Social Media,2025-09-20 00:00:00,,,Chiffon Brand Awareness,Client Success Team,UrbanGlow,Kenya
+37,brian.njoroge37@example.com,Brian,Njoroge,Lead,Organic Search,,2025-11-10 00:00:00,,,Chiffon Brand Awareness,John Kamau,BeautyWorld KE,Kenya
+38,esther.mwangi38@example.com,Esther,Mwangi,Opportunity,Paid Search,Paid Search,2025-09-08 00:00:00,2025-10-08,1673.04,Referral Program,Mercy Otieno,Coastal Beauty,Kenya
+39,david.maina39@example.com,David,Maina,Sales Qualified Lead,Organic Search,,2025-07-08 00:00:00,,,Referral Boost,Mercy Otieno,Nairobi Retailers,Kenya
+40,wanjiru.mwangi40@example.com,Wanjiru,Mwangi,Customer,Organic Search,,2025-01-06 00:00:00,2025-01-22,2300.32,Chiffon Brand Awareness,Samuel Ndegwa,Nairobi Retailers,Kenya
+41,fatuma.karanja41@example.com,Fatuma,Karanja,Marketing Qualified Lead,Paid Search,Paid Search,2025-02-21 00:00:00,,,Organic Search,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+42,wanjiru.karanja42@example.com,Wanjiru,Karanja,Lead,Organic Search,,2025-04-05 00:00:00,,,Holiday Promo Q4,Samuel Ndegwa,UrbanGlow,Kenya
+43,paul.ouma43@example.com,Paul,Ouma,Sales Qualified Lead,Direct,,2025-03-01 00:00:00,,,Organic Search,Jane Wanjiru,BeautyWorld KE,Kenya
+44,nancy.ouma44@example.com,Nancy,Ouma,Marketing Qualified Lead,Paid Search,Paid Search,2025-02-17 00:00:00,,,Chiffon Brand Awareness,Client Success Team,BeautyWorld KE,Kenya
+45,wanjiru.mwangi45@example.com,Wanjiru,Mwangi,Marketing Qualified Lead,Referral,,2025-01-30 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,Nairobi Retailers,Kenya
+46,mary.ouma46@example.com,Mary,Ouma,Marketing Qualified Lead,Organic Search,,2025-12-24 00:00:00,,,Newsletter,Mercy Otieno,UrbanGlow,Kenya
+47,mary.wanyoike47@example.com,Mary,Wanyoike,Customer,Direct,,2025-03-02 00:00:00,2025-04-30,912.27,Holiday Promo Q4,Client Success Team,Coastal Beauty,Kenya
+48,lilian.mwangi48@example.com,Lilian,Mwangi,Sales Qualified Lead,Email,,2025-01-27 00:00:00,,,Chiffon Brand Awareness,John Kamau,BeautyWorld KE,Kenya
+49,mary.mutua49@example.com,Mary,Mutua,Customer,Referral,,2025-07-31 00:00:00,2025-08-18,713.02,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+50,michael.kiptoo50@example.com,Michael,Kiptoo,Opportunity,Direct,,2025-09-30 00:00:00,2025-10-16,647.04,Referral Program,Mercy Otieno,BeautyWorld KE,Kenya
+51,lilian.njoroge51@example.com,Lilian,Njoroge,Marketing Qualified Lead,Paid Search,Paid Search,2025-08-18 00:00:00,,,Holiday Promo Q4,Mercy Otieno,Chiffon Cosmetics,Kenya
+52,joseph.kamau52@example.com,Joseph,Kamau,Customer,Organic Search,,2025-01-21 00:00:00,2025-03-05,1794.3,Chiffon Brand Awareness,Samuel Ndegwa,Coastal Beauty,Kenya
+53,fatuma.otieno53@example.com,Fatuma,Otieno,Opportunity,Referral,,2025-07-19 00:00:00,2025-08-16,1531.65,Holiday Promo Q4,John Kamau,Chiffon Cosmetics,Kenya
+54,peter.kiptoo54@example.com,Peter,Kiptoo,Opportunity,Referral,,2025-03-01 00:00:00,2025-04-07,1215.44,Referral Program,Client Success Team,Coastal Beauty,Kenya
+55,brian.mwangi55@example.com,Brian,Mwangi,Marketing Qualified Lead,Direct,,2025-01-23 00:00:00,,,Holiday Promo Q4,Samuel Ndegwa,UrbanGlow,Kenya
+56,david.atieno56@example.com,David,Atieno,Lead,Organic Search,,2025-05-25 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+57,lilian.karanja57@example.com,Lilian,Karanja,Opportunity,Referral,,2025-08-08 00:00:00,2025-09-30,1211.01,Referral Program,Samuel Ndegwa,Nairobi Retailers,Kenya
+58,fatuma.ouma58@example.com,Fatuma,Ouma,Marketing Qualified Lead,Paid Search,Paid Search,2025-03-18 00:00:00,,,New Store Launch,Client Success Team,Nairobi Retailers,Kenya
+59,brian.okello59@example.com,Brian,Okello,Lead,Organic Search,,2025-08-29 00:00:00,,,New Store Launch,Jane Wanjiru,BeautyWorld KE,Kenya
+60,peter.wanyoike60@example.com,Peter,Wanyoike,Marketing Qualified Lead,Direct,,2025-04-22 00:00:00,,,Referral Boost,Client Success Team,Chiffon Cosmetics,Kenya
+61,joseph.kamau61@example.com,Joseph,Kamau,Lead,Organic Search,,2025-01-03 00:00:00,,,Organic Search,Client Success Team,BeautyWorld KE,Kenya
+62,mary.kiptoo62@example.com,Mary,Kiptoo,Customer,Social Media,Social Media,2025-08-08 00:00:00,2025-09-04,1958.46,Referral Program,John Kamau,Coastal Beauty,Kenya
+63,fatuma.atieno63@example.com,Fatuma,Atieno,Lead,Email,,2025-07-30 00:00:00,,,Holiday Promo Q4,Mercy Otieno,BeautyWorld KE,Kenya
+64,nancy.okello64@example.com,Nancy,Okello,Marketing Qualified Lead,Social Media,Social Media,2025-11-09 00:00:00,,,Newsletter,Samuel Ndegwa,Nairobi Retailers,Kenya
+65,grace.mutua65@example.com,Grace,Mutua,Marketing Qualified Lead,Social Media,Social Media,2025-01-14 00:00:00,,,New Store Launch,John Kamau,Nairobi Retailers,Kenya
+66,mary.kamau66@example.com,Mary,Kamau,Lead,Paid Search,Paid Search,2025-06-13 00:00:00,,,Referral Boost,Jane Wanjiru,BeautyWorld KE,Kenya
+67,wanjiru.kamau67@example.com,Wanjiru,Kamau,Opportunity,Social Media,Social Media,2025-09-07 00:00:00,2025-10-05,1423.5,Valentine Push,John Kamau,Coastal Beauty,Kenya
+68,grace.atieno68@example.com,Grace,Atieno,Marketing Qualified Lead,Paid Search,Paid Search,2025-02-10 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,Nairobi Retailers,Kenya
+69,aisha.mutua69@example.com,Aisha,Mutua,Opportunity,Referral,,2025-10-03 00:00:00,2025-10-27,961.69,Holiday Promo Q4,Jane Wanjiru,Chiffon Cosmetics,Kenya
+70,james.wanyoike70@example.com,James,Wanyoike,Lead,Organic Search,,2025-05-09 00:00:00,,,Organic Search,John Kamau,BeautyWorld KE,Kenya
+71,nancy.wanyoike71@example.com,Nancy,Wanyoike,Sales Qualified Lead,Referral,,2025-11-04 00:00:00,,,Valentine Push,John Kamau,Nairobi Retailers,Kenya
+72,wanjiru.kariuki72@example.com,Wanjiru,Kariuki,Sales Qualified Lead,Direct,,2025-08-20 00:00:00,,,Referral Boost,Samuel Ndegwa,BeautyWorld KE,Kenya
+73,nancy.kiptoo73@example.com,Nancy,Kiptoo,Sales Qualified Lead,Direct,,2025-06-23 00:00:00,,,Referral Boost,Jane Wanjiru,Coastal Beauty,Kenya
+74,nancy.otieno74@example.com,Nancy,Otieno,Customer,Referral,,2025-01-26 00:00:00,2025-02-20,1623.01,Holiday Promo Q4,Mercy Otieno,Nairobi Retailers,Kenya
+75,aisha.kiptoo75@example.com,Aisha,Kiptoo,Marketing Qualified Lead,Paid Search,Paid Search,2025-10-19 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,Coastal Beauty,Kenya
+76,james.okello76@example.com,James,Okello,Sales Qualified Lead,Direct,,2025-08-29 00:00:00,,,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+77,joseph.maina77@example.com,Joseph,Maina,Sales Qualified Lead,Social Media,Social Media,2025-12-28 00:00:00,,,New Store Launch,Samuel Ndegwa,Nairobi Retailers,Kenya
+78,peter.ouma78@example.com,Peter,Ouma,Customer,Social Media,Social Media,2025-11-30 00:00:00,2025-12-03,1131.96,Valentine Push,Client Success Team,Nairobi Retailers,Kenya
+79,brian.okello79@example.com,Brian,Okello,Marketing Qualified Lead,Paid Search,Paid Search,2025-11-30 00:00:00,,,Holiday Promo Q4,Client Success Team,UrbanGlow,Kenya
+80,paul.ouma80@example.com,Paul,Ouma,Customer,Direct,,2025-12-27 00:00:00,2025-12-24,1772.39,Holiday Promo Q4,Jane Wanjiru,Chiffon Cosmetics,Kenya
+81,joseph.okello81@example.com,Joseph,Okello,Opportunity,Organic Search,,2025-11-13 00:00:00,2025-12-31,668.42,New Store Launch,Mercy Otieno,Coastal Beauty,Kenya
+82,esther.njoroge82@example.com,Esther,Njoroge,Lead,Referral,,2025-05-11 00:00:00,,,Organic Search,John Kamau,Chiffon Cosmetics,Kenya
+83,esther.atieno83@example.com,Esther,Atieno,Marketing Qualified Lead,Referral,,2025-06-17 00:00:00,,,Newsletter,Mercy Otieno,Chiffon Cosmetics,Kenya
+84,grace.kamau84@example.com,Grace,Kamau,Customer,Referral,,2025-08-19 00:00:00,2025-10-16,1089.38,Seasonal Email,Samuel Ndegwa,Coastal Beauty,Kenya
+85,michael.mutua85@example.com,Michael,Mutua,Sales Qualified Lead,Paid Search,Paid Search,2025-03-10 00:00:00,,,Newsletter,John Kamau,Nairobi Retailers,Kenya
+86,brian.wanyoike86@example.com,Brian,Wanyoike,Lead,Social Media,Social Media,2025-04-19 00:00:00,,,Newsletter,Client Success Team,BeautyWorld KE,Kenya
+87,brian.wanyoike87@example.com,Brian,Wanyoike,Customer,Email,,2025-09-07 00:00:00,2025-10-06,818.88,New Store Launch,Samuel Ndegwa,Nairobi Retailers,Kenya
+88,aisha.njoroge88@example.com,Aisha,Njoroge,Marketing Qualified Lead,Paid Search,Paid Search,2025-08-07 00:00:00,,,Valentine Push,Samuel Ndegwa,Nairobi Retailers,Kenya
+89,fatuma.okello89@example.com,Fatuma,Okello,Sales Qualified Lead,Referral,,2025-11-10 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Coastal Beauty,Kenya
+90,nancy.mutua90@example.com,Nancy,Mutua,Customer,Paid Search,Paid Search,2025-04-16 00:00:00,2025-05-05,962.21,New Store Launch,Client Success Team,UrbanGlow,Kenya
+91,esther.otieno91@example.com,Esther,Otieno,Opportunity,Organic Search,,2025-11-06 00:00:00,2025-11-17,1161.22,Referral Boost,Client Success Team,Nairobi Retailers,Kenya
+92,michael.okello92@example.com,Michael,Okello,Marketing Qualified Lead,Referral,,2025-06-03 00:00:00,,,Referral Boost,Client Success Team,Coastal Beauty,Kenya
+93,esther.okello93@example.com,Esther,Okello,Lead,Direct,,2025-02-07 00:00:00,,,Organic Search,Mercy Otieno,UrbanGlow,Kenya
+94,fatuma.okello94@example.com,Fatuma,Okello,Lead,Referral,,2025-11-22 00:00:00,,,Chiffon Brand Awareness,John Kamau,Nairobi Retailers,Kenya
+95,nancy.kamau95@example.com,Nancy,Kamau,Lead,Email,,2025-07-28 00:00:00,,,Newsletter,Client Success Team,BeautyWorld KE,Kenya
+96,joseph.okello96@example.com,Joseph,Okello,Marketing Qualified Lead,Referral,,2025-12-25 00:00:00,,,New Store Launch,Samuel Ndegwa,UrbanGlow,Kenya
+97,wanjiru.maina97@example.com,Wanjiru,Maina,Lead,Paid Search,Paid Search,2025-02-10 00:00:00,,,Holiday Promo Q4,Jane Wanjiru,Chiffon Cosmetics,Kenya
+98,james.kariuki98@example.com,James,Kariuki,Marketing Qualified Lead,Email,,2025-09-28 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,Coastal Beauty,Kenya
+99,david.mutua99@example.com,David,Mutua,Opportunity,Social Media,Social Media,2025-06-05 00:00:00,2025-07-05,1093.25,New Store Launch,Jane Wanjiru,Nairobi Retailers,Kenya
+100,james.wanyoike100@example.com,James,Wanyoike,Customer,Email,,2025-10-25 00:00:00,2025-11-02,1781.7,Valentine Push,Jane Wanjiru,BeautyWorld KE,Kenya
+101,mary.maina101@example.com,Mary,Maina,Marketing Qualified Lead,Email,,2025-06-26 00:00:00,,,Chiffon Brand Awareness,Client Success Team,UrbanGlow,Kenya
+102,michael.njoroge102@example.com,Michael,Njoroge,Marketing Qualified Lead,Organic Search,,2025-08-19 00:00:00,,,Organic Search,Client Success Team,BeautyWorld KE,Kenya
+103,brian.kariuki103@example.com,Brian,Kariuki,Marketing Qualified Lead,Organic Search,,2025-08-03 00:00:00,,,New Store Launch,Jane Wanjiru,Nairobi Retailers,Kenya
+104,nancy.karanja104@example.com,Nancy,Karanja,Lead,Direct,,2025-09-22 00:00:00,,,Organic Search,Mercy Otieno,UrbanGlow,Kenya
+105,david.kamau105@example.com,David,Kamau,Opportunity,Referral,,2025-09-16 00:00:00,2025-10-27,1049.65,Valentine Push,Samuel Ndegwa,Nairobi Retailers,Kenya
+106,james.otieno106@example.com,James,Otieno,Customer,Paid Search,Paid Search,2025-03-04 00:00:00,2025-04-05,1112.2,Valentine Push,Jane Wanjiru,Nairobi Retailers,Kenya
+107,paul.maina107@example.com,Paul,Maina,Customer,Paid Search,Paid Search,2025-05-01 00:00:00,2025-06-02,1341.2,Referral Program,Client Success Team,Coastal Beauty,Kenya
+108,david.ouma108@example.com,David,Ouma,Opportunity,Organic Search,,2025-02-20 00:00:00,2025-04-07,1223.65,Valentine Push,Jane Wanjiru,BeautyWorld KE,Kenya
+109,esther.otieno109@example.com,Esther,Otieno,Customer,Email,,2025-03-21 00:00:00,2025-05-08,1850.47,Chiffon Brand Awareness,John Kamau,Coastal Beauty,Kenya
+110,nancy.okello110@example.com,Nancy,Okello,Sales Qualified Lead,Referral,,2025-08-09 00:00:00,,,New Store Launch,Samuel Ndegwa,Coastal Beauty,Kenya
+111,esther.karanja111@example.com,Esther,Karanja,Marketing Qualified Lead,Paid Search,Paid Search,2025-01-04 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,UrbanGlow,Kenya
+112,james.kiptoo112@example.com,James,Kiptoo,Marketing Qualified Lead,Social Media,Social Media,2025-06-25 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,BeautyWorld KE,Kenya
+113,lilian.kiptoo113@example.com,Lilian,Kiptoo,Customer,Organic Search,,2025-10-25 00:00:00,2025-12-05,2194.1,Chiffon Brand Awareness,Mercy Otieno,Chiffon Cosmetics,Kenya
+114,david.okello114@example.com,David,Okello,Marketing Qualified Lead,Email,,2025-05-27 00:00:00,,,Valentine Push,John Kamau,BeautyWorld KE,Kenya
+115,esther.maina115@example.com,Esther,Maina,Opportunity,Social Media,Social Media,2025-12-15 00:00:00,2025-12-22,2073.77,New Store Launch,John Kamau,BeautyWorld KE,Kenya
+116,fatuma.otieno116@example.com,Fatuma,Otieno,Customer,Social Media,Social Media,2025-09-26 00:00:00,2025-10-21,835.08,Holiday Promo Q4,Jane Wanjiru,Chiffon Cosmetics,Kenya
+117,esther.kariuki117@example.com,Esther,Kariuki,Customer,Email,,2025-06-08 00:00:00,2025-06-29,749.35,Referral Boost,Jane Wanjiru,UrbanGlow,Kenya
+118,james.kariuki118@example.com,James,Kariuki,Marketing Qualified Lead,Organic Search,,2025-11-02 00:00:00,,,Valentine Push,Samuel Ndegwa,Nairobi Retailers,Kenya
+119,esther.otieno119@example.com,Esther,Otieno,Lead,Social Media,Social Media,2025-06-25 00:00:00,,,Referral Boost,Client Success Team,Chiffon Cosmetics,Kenya
+120,joseph.kamau120@example.com,Joseph,Kamau,Lead,Email,,2025-09-21 00:00:00,,,Valentine Push,John Kamau,BeautyWorld KE,Kenya
+121,wanjiru.kamau121@example.com,Wanjiru,Kamau,Opportunity,Direct,,2025-11-01 00:00:00,2025-12-11,1010.17,Valentine Push,Mercy Otieno,Nairobi Retailers,Kenya
+122,mary.kariuki122@example.com,Mary,Kariuki,Customer,Social Media,Social Media,2025-11-16 00:00:00,2025-12-30,899.08,Seasonal Email,John Kamau,Nairobi Retailers,Kenya
+123,esther.karanja123@example.com,Esther,Karanja,Lead,Referral,,2025-02-19 00:00:00,,,Newsletter,John Kamau,Chiffon Cosmetics,Kenya
+124,paul.karanja124@example.com,Paul,Karanja,Marketing Qualified Lead,Referral,,2025-09-07 00:00:00,,,Holiday Promo Q4,John Kamau,Chiffon Cosmetics,Kenya
+125,nancy.njoroge125@example.com,Nancy,Njoroge,Customer,Paid Search,Paid Search,2025-04-07 00:00:00,2025-05-04,841.7,Referral Boost,John Kamau,BeautyWorld KE,Kenya
+126,aisha.okello126@example.com,Aisha,Okello,Lead,Email,,2025-09-08 00:00:00,,,New Store Launch,Client Success Team,Chiffon Cosmetics,Kenya
+127,fatuma.ouma127@example.com,Fatuma,Ouma,Marketing Qualified Lead,Organic Search,,2025-11-21 00:00:00,,,Valentine Push,Mercy Otieno,Nairobi Retailers,Kenya
+128,lilian.kariuki128@example.com,Lilian,Kariuki,Marketing Qualified Lead,Social Media,Social Media,2025-08-24 00:00:00,,,Valentine Push,Jane Wanjiru,BeautyWorld KE,Kenya
+129,peter.okello129@example.com,Peter,Okello,Lead,Direct,,2025-05-16 00:00:00,,,Referral Boost,Client Success Team,BeautyWorld KE,Kenya
+130,esther.kariuki130@example.com,Esther,Kariuki,Marketing Qualified Lead,Organic Search,,2025-07-09 00:00:00,,,Chiffon Brand Awareness,Client Success Team,UrbanGlow,Kenya
+131,james.mutua131@example.com,James,Mutua,Lead,Organic Search,,2025-02-01 00:00:00,,,Newsletter,Client Success Team,Chiffon Cosmetics,Kenya
+132,michael.mutua132@example.com,Michael,Mutua,Opportunity,Email,,2025-08-19 00:00:00,2025-09-22,1736.0,Referral Boost,Jane Wanjiru,UrbanGlow,Kenya
+133,david.atieno133@example.com,David,Atieno,Lead,Referral,,2025-02-04 00:00:00,,,Referral Boost,Mercy Otieno,Coastal Beauty,Kenya
+134,nancy.otieno134@example.com,Nancy,Otieno,Sales Qualified Lead,Referral,,2025-05-24 00:00:00,,,Holiday Promo Q4,John Kamau,Chiffon Cosmetics,Kenya
+135,paul.kariuki135@example.com,Paul,Kariuki,Sales Qualified Lead,Organic Search,,2025-04-13 00:00:00,,,Valentine Push,John Kamau,Coastal Beauty,Kenya
+136,aisha.kiptoo136@example.com,Aisha,Kiptoo,Customer,Referral,,2025-11-18 00:00:00,2025-11-27,2371.31,New Store Launch,Jane Wanjiru,UrbanGlow,Kenya
+137,mary.karanja137@example.com,Mary,Karanja,Lead,Organic Search,,2025-09-03 00:00:00,,,New Store Launch,John Kamau,Coastal Beauty,Kenya
+138,james.kiptoo138@example.com,James,Kiptoo,Marketing Qualified Lead,Email,,2025-03-30 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+139,david.mwangi139@example.com,David,Mwangi,Customer,Email,,2025-07-03 00:00:00,2025-08-19,986.87,Valentine Push,Client Success Team,Chiffon Cosmetics,Kenya
+140,james.kariuki140@example.com,James,Kariuki,Sales Qualified Lead,Organic Search,,2025-07-29 00:00:00,,,Holiday Promo Q4,Mercy Otieno,UrbanGlow,Kenya
+141,esther.atieno141@example.com,Esther,Atieno,Opportunity,Paid Search,Paid Search,2025-08-11 00:00:00,2025-09-13,1116.48,Chiffon Brand Awareness,Jane Wanjiru,Nairobi Retailers,Kenya
+142,joseph.ouma142@example.com,Joseph,Ouma,Customer,Direct,,2025-08-25 00:00:00,2025-09-09,1273.35,Holiday Promo Q4,Mercy Otieno,Nairobi Retailers,Kenya
+143,grace.karanja143@example.com,Grace,Karanja,Customer,Organic Search,,2025-03-30 00:00:00,2025-05-03,1133.97,Referral Program,Client Success Team,BeautyWorld KE,Kenya
+144,james.kariuki144@example.com,James,Kariuki,Opportunity,Social Media,Social Media,2025-11-02 00:00:00,2025-11-14,780.44,New Store Launch,John Kamau,BeautyWorld KE,Kenya
+145,michael.mutua145@example.com,Michael,Mutua,Sales Qualified Lead,Referral,,2025-03-28 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,UrbanGlow,Kenya
+146,james.otieno146@example.com,James,Otieno,Lead,Email,,2025-08-13 00:00:00,,,Newsletter,John Kamau,UrbanGlow,Kenya
+147,wanjiru.mwangi147@example.com,Wanjiru,Mwangi,Lead,Social Media,Social Media,2025-06-05 00:00:00,,,Holiday Promo Q4,Jane Wanjiru,Nairobi Retailers,Kenya
+148,fatuma.mwangi148@example.com,Fatuma,Mwangi,Opportunity,Organic Search,,2025-12-30 00:00:00,2025-12-09,623.5,Holiday Promo Q4,Mercy Otieno,Nairobi Retailers,Kenya
+149,peter.ouma149@example.com,Peter,Ouma,Sales Qualified Lead,Organic Search,,2025-05-24 00:00:00,,,Newsletter,Samuel Ndegwa,UrbanGlow,Kenya
+150,paul.kariuki150@example.com,Paul,Kariuki,Lead,Direct,,2025-12-24 00:00:00,,,Holiday Promo Q4,Client Success Team,Chiffon Cosmetics,Kenya
+151,joseph.kamau151@example.com,Joseph,Kamau,Customer,Organic Search,,2025-10-03 00:00:00,2025-11-12,607.52,New Store Launch,Mercy Otieno,Nairobi Retailers,Kenya
+152,grace.karanja152@example.com,Grace,Karanja,Customer,Social Media,Social Media,2025-06-18 00:00:00,2025-07-14,2361.41,New Store Launch,Samuel Ndegwa,Coastal Beauty,Kenya
+153,lilian.mutua153@example.com,Lilian,Mutua,Customer,Paid Search,Paid Search,2025-09-06 00:00:00,2025-10-20,615.71,Chiffon Brand Awareness,Client Success Team,Coastal Beauty,Kenya
+154,grace.kamau154@example.com,Grace,Kamau,Marketing Qualified Lead,Social Media,Social Media,2025-07-03 00:00:00,,,Referral Boost,Mercy Otieno,UrbanGlow,Kenya
+155,james.mwangi155@example.com,James,Mwangi,Customer,Referral,,2025-10-16 00:00:00,2025-11-11,664.91,Holiday Promo Q4,John Kamau,BeautyWorld KE,Kenya
+156,lilian.mutua156@example.com,Lilian,Mutua,Opportunity,Email,,2025-11-23 00:00:00,2025-12-06,2197.58,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+157,brian.mwangi157@example.com,Brian,Mwangi,Customer,Direct,,2025-07-15 00:00:00,2025-08-10,1981.31,Valentine Push,Mercy Otieno,Chiffon Cosmetics,Kenya
+158,esther.mwangi158@example.com,Esther,Mwangi,Sales Qualified Lead,Paid Search,Paid Search,2025-03-11 00:00:00,,,Newsletter,Mercy Otieno,Nairobi Retailers,Kenya
+159,james.karanja159@example.com,James,Karanja,Sales Qualified Lead,Email,,2025-12-02 00:00:00,,,New Store Launch,Jane Wanjiru,BeautyWorld KE,Kenya
+160,michael.otieno160@example.com,Michael,Otieno,Marketing Qualified Lead,Paid Search,Paid Search,2025-12-31 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,Coastal Beauty,Kenya
+161,paul.maina161@example.com,Paul,Maina,Marketing Qualified Lead,Organic Search,,2025-01-07 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Nairobi Retailers,Kenya
+162,michael.mutua162@example.com,Michael,Mutua,Marketing Qualified Lead,Social Media,Social Media,2025-11-25 00:00:00,,,Referral Boost,Client Success Team,Coastal Beauty,Kenya
+163,michael.wanyoike163@example.com,Michael,Wanyoike,Lead,Paid Search,Paid Search,2025-06-21 00:00:00,,,Organic Search,Jane Wanjiru,Chiffon Cosmetics,Kenya
+164,paul.maina164@example.com,Paul,Maina,Lead,Social Media,Social Media,2025-05-10 00:00:00,,,New Store Launch,John Kamau,Chiffon Cosmetics,Kenya
+165,grace.wanyoike165@example.com,Grace,Wanyoike,Marketing Qualified Lead,Social Media,Social Media,2025-01-23 00:00:00,,,Valentine Push,Client Success Team,Chiffon Cosmetics,Kenya
+166,nancy.kiptoo166@example.com,Nancy,Kiptoo,Marketing Qualified Lead,Organic Search,,2025-02-16 00:00:00,,,Organic Search,Jane Wanjiru,Chiffon Cosmetics,Kenya
+167,lilian.okello167@example.com,Lilian,Okello,Opportunity,Organic Search,,2025-10-20 00:00:00,2025-11-10,1243.79,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+168,lilian.okello168@example.com,Lilian,Okello,Marketing Qualified Lead,Paid Search,Paid Search,2025-09-12 00:00:00,,,Newsletter,John Kamau,UrbanGlow,Kenya
+169,michael.atieno169@example.com,Michael,Atieno,Marketing Qualified Lead,Organic Search,,2025-02-28 00:00:00,,,Organic Search,Mercy Otieno,UrbanGlow,Kenya
+170,joseph.kamau170@example.com,Joseph,Kamau,Customer,Paid Search,Paid Search,2025-06-26 00:00:00,2025-08-03,1599.6,Referral Program,Samuel Ndegwa,Nairobi Retailers,Kenya
+171,aisha.mwangi171@example.com,Aisha,Mwangi,Opportunity,Paid Search,Paid Search,2025-05-01 00:00:00,2025-05-31,649.08,New Store Launch,Mercy Otieno,BeautyWorld KE,Kenya
+172,michael.mutua172@example.com,Michael,Mutua,Lead,Direct,,2025-02-16 00:00:00,,,Newsletter,Jane Wanjiru,UrbanGlow,Kenya
+173,james.wanyoike173@example.com,James,Wanyoike,Lead,Email,,2025-07-18 00:00:00,,,Newsletter,Jane Wanjiru,Nairobi Retailers,Kenya
+174,paul.maina174@example.com,Paul,Maina,Opportunity,Paid Search,Paid Search,2025-04-08 00:00:00,2025-06-01,854.58,Chiffon Brand Awareness,Mercy Otieno,Chiffon Cosmetics,Kenya
+175,peter.kamau175@example.com,Peter,Kamau,Marketing Qualified Lead,Social Media,Social Media,2025-06-16 00:00:00,,,Newsletter,Client Success Team,BeautyWorld KE,Kenya
+176,wanjiru.mwangi176@example.com,Wanjiru,Mwangi,Lead,Direct,,2025-09-05 00:00:00,,,Valentine Push,Client Success Team,Coastal Beauty,Kenya
+177,paul.wanyoike177@example.com,Paul,Wanyoike,Marketing Qualified Lead,Referral,,2025-06-27 00:00:00,,,Valentine Push,Mercy Otieno,Nairobi Retailers,Kenya
+178,mary.kariuki178@example.com,Mary,Kariuki,Lead,Organic Search,,2025-07-19 00:00:00,,,Holiday Promo Q4,Mercy Otieno,BeautyWorld KE,Kenya
+179,james.ouma179@example.com,James,Ouma,Customer,Paid Search,Paid Search,2025-07-01 00:00:00,2025-07-25,1052.04,Seasonal Email,John Kamau,BeautyWorld KE,Kenya
+180,wanjiru.kiptoo180@example.com,Wanjiru,Kiptoo,Lead,Email,,2025-11-11 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,Nairobi Retailers,Kenya
+181,fatuma.atieno181@example.com,Fatuma,Atieno,Customer,Paid Search,Paid Search,2025-01-15 00:00:00,2025-02-18,2134.72,Holiday Promo Q4,Jane Wanjiru,Chiffon Cosmetics,Kenya
+182,james.ouma182@example.com,James,Ouma,Customer,Paid Search,Paid Search,2025-09-12 00:00:00,2025-10-03,1678.91,Valentine Push,Client Success Team,Coastal Beauty,Kenya
+183,lilian.okello183@example.com,Lilian,Okello,Lead,Social Media,Social Media,2025-03-08 00:00:00,,,Valentine Push,Mercy Otieno,BeautyWorld KE,Kenya
+184,nancy.okello184@example.com,Nancy,Okello,Opportunity,Paid Search,Paid Search,2025-06-28 00:00:00,2025-08-18,806.1,Referral Program,Samuel Ndegwa,BeautyWorld KE,Kenya
+185,joseph.maina185@example.com,Joseph,Maina,Customer,Paid Search,Paid Search,2025-07-06 00:00:00,2025-08-27,976.68,Seasonal Email,Samuel Ndegwa,BeautyWorld KE,Kenya
+186,wanjiru.karanja186@example.com,Wanjiru,Karanja,Sales Qualified Lead,Email,,2025-10-25 00:00:00,,,Newsletter,Mercy Otieno,BeautyWorld KE,Kenya
+187,grace.otieno187@example.com,Grace,Otieno,Opportunity,Paid Search,Paid Search,2025-08-15 00:00:00,2025-09-05,665.88,Seasonal Email,Mercy Otieno,Coastal Beauty,Kenya
+188,peter.otieno188@example.com,Peter,Otieno,Marketing Qualified Lead,Referral,,2025-07-04 00:00:00,,,Newsletter,Client Success Team,UrbanGlow,Kenya
+189,peter.kiptoo189@example.com,Peter,Kiptoo,Lead,Organic Search,,2025-12-19 00:00:00,,,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+190,james.atieno190@example.com,James,Atieno,Marketing Qualified Lead,Organic Search,,2025-07-10 00:00:00,,,Referral Boost,Jane Wanjiru,UrbanGlow,Kenya
+191,wanjiru.otieno191@example.com,Wanjiru,Otieno,Sales Qualified Lead,Social Media,Social Media,2025-02-27 00:00:00,,,New Store Launch,Samuel Ndegwa,UrbanGlow,Kenya
+192,esther.okello192@example.com,Esther,Okello,Sales Qualified Lead,Referral,,2025-09-03 00:00:00,,,Organic Search,Mercy Otieno,Coastal Beauty,Kenya
+193,aisha.atieno193@example.com,Aisha,Atieno,Marketing Qualified Lead,Organic Search,,2025-05-08 00:00:00,,,Organic Search,Mercy Otieno,Nairobi Retailers,Kenya
+194,grace.karanja194@example.com,Grace,Karanja,Marketing Qualified Lead,Email,,2025-01-08 00:00:00,,,Referral Boost,Jane Wanjiru,Nairobi Retailers,Kenya
+195,mary.okello195@example.com,Mary,Okello,Lead,Paid Search,Paid Search,2025-09-27 00:00:00,,,Valentine Push,Client Success Team,BeautyWorld KE,Kenya
+196,michael.kariuki196@example.com,Michael,Kariuki,Opportunity,Social Media,Social Media,2025-07-27 00:00:00,2025-09-04,1246.43,Valentine Push,Jane Wanjiru,BeautyWorld KE,Kenya
+197,paul.maina197@example.com,Paul,Maina,Opportunity,Email,,2025-08-09 00:00:00,2025-09-10,1402.49,New Store Launch,Jane Wanjiru,UrbanGlow,Kenya
+198,mary.kariuki198@example.com,Mary,Kariuki,Lead,Referral,,2025-04-26 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,BeautyWorld KE,Kenya
+199,aisha.okello199@example.com,Aisha,Okello,Opportunity,Email,,2025-08-01 00:00:00,2025-09-29,1802.07,Chiffon Brand Awareness,Jane Wanjiru,Coastal Beauty,Kenya
+200,peter.okello200@example.com,Peter,Okello,Lead,Paid Search,Paid Search,2025-10-20 00:00:00,,,Holiday Promo Q4,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+201,wanjiru.kiptoo201@example.com,Wanjiru,Kiptoo,Lead,Direct,,2025-04-13 00:00:00,,,Valentine Push,Mercy Otieno,UrbanGlow,Kenya
+202,fatuma.atieno202@example.com,Fatuma,Atieno,Marketing Qualified Lead,Social Media,Social Media,2025-02-28 00:00:00,,,Referral Boost,Mercy Otieno,Chiffon Cosmetics,Kenya
+203,lilian.njoroge203@example.com,Lilian,Njoroge,Lead,Paid Search,Paid Search,2025-03-19 00:00:00,,,Referral Boost,Jane Wanjiru,Nairobi Retailers,Kenya
+204,mary.kariuki204@example.com,Mary,Kariuki,Opportunity,Paid Search,Paid Search,2025-02-02 00:00:00,2025-04-02,1493.84,Referral Program,John Kamau,UrbanGlow,Kenya
+205,aisha.kiptoo205@example.com,Aisha,Kiptoo,Sales Qualified Lead,Organic Search,,2025-10-06 00:00:00,,,New Store Launch,John Kamau,Nairobi Retailers,Kenya
+206,fatuma.mutua206@example.com,Fatuma,Mutua,Lead,Social Media,Social Media,2025-07-15 00:00:00,,,Newsletter,Mercy Otieno,UrbanGlow,Kenya
+207,aisha.mwangi207@example.com,Aisha,Mwangi,Lead,Social Media,Social Media,2025-08-02 00:00:00,,,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+208,fatuma.ouma208@example.com,Fatuma,Ouma,Lead,Referral,,2025-03-02 00:00:00,,,New Store Launch,Jane Wanjiru,UrbanGlow,Kenya
+209,david.mwangi209@example.com,David,Mwangi,Lead,Organic Search,,2025-10-17 00:00:00,,,Newsletter,John Kamau,UrbanGlow,Kenya
+210,wanjiru.otieno210@example.com,Wanjiru,Otieno,Lead,Paid Search,Paid Search,2025-09-16 00:00:00,,,Referral Boost,Samuel Ndegwa,UrbanGlow,Kenya
+211,nancy.atieno211@example.com,Nancy,Atieno,Lead,Organic Search,,2025-03-09 00:00:00,,,Referral Boost,Jane Wanjiru,Chiffon Cosmetics,Kenya
+212,fatuma.mutua212@example.com,Fatuma,Mutua,Lead,Direct,,2025-09-07 00:00:00,,,New Store Launch,Mercy Otieno,UrbanGlow,Kenya
+213,james.wanyoike213@example.com,James,Wanyoike,Lead,Paid Search,Paid Search,2025-05-07 00:00:00,,,Organic Search,Client Success Team,BeautyWorld KE,Kenya
+214,paul.ouma214@example.com,Paul,Ouma,Customer,Direct,,2025-05-09 00:00:00,2025-06-22,634.33,Chiffon Brand Awareness,Mercy Otieno,Chiffon Cosmetics,Kenya
+215,michael.kamau215@example.com,Michael,Kamau,Opportunity,Organic Search,,2025-07-08 00:00:00,2025-08-02,1219.26,Valentine Push,Client Success Team,Chiffon Cosmetics,Kenya
+216,wanjiru.njoroge216@example.com,Wanjiru,Njoroge,Marketing Qualified Lead,Email,,2025-08-22 00:00:00,,,New Store Launch,Client Success Team,BeautyWorld KE,Kenya
+217,grace.mutua217@example.com,Grace,Mutua,Lead,Organic Search,,2025-09-14 00:00:00,,,Organic Search,John Kamau,Nairobi Retailers,Kenya
+218,aisha.kariuki218@example.com,Aisha,Kariuki,Lead,Paid Search,Paid Search,2025-04-07 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,Coastal Beauty,Kenya
+219,peter.kiptoo219@example.com,Peter,Kiptoo,Opportunity,Social Media,Social Media,2025-01-04 00:00:00,2025-02-24,1928.7,Seasonal Email,Client Success Team,BeautyWorld KE,Kenya
+220,aisha.otieno220@example.com,Aisha,Otieno,Sales Qualified Lead,Referral,,2025-09-12 00:00:00,,,Organic Search,Client Success Team,Coastal Beauty,Kenya
+221,michael.kiptoo221@example.com,Michael,Kiptoo,Marketing Qualified Lead,Direct,,2025-04-28 00:00:00,,,Valentine Push,Jane Wanjiru,Nairobi Retailers,Kenya
+222,esther.ouma222@example.com,Esther,Ouma,Marketing Qualified Lead,Social Media,Social Media,2025-07-06 00:00:00,,,Valentine Push,Mercy Otieno,BeautyWorld KE,Kenya
+223,wanjiru.njoroge223@example.com,Wanjiru,Njoroge,Lead,Referral,,2025-10-27 00:00:00,,,Newsletter,Jane Wanjiru,Coastal Beauty,Kenya
+224,david.kamau224@example.com,David,Kamau,Opportunity,Organic Search,,2025-05-17 00:00:00,2025-06-27,1395.59,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+225,michael.mutua225@example.com,Michael,Mutua,Lead,Referral,,2025-03-18 00:00:00,,,Holiday Promo Q4,Client Success Team,BeautyWorld KE,Kenya
+226,michael.njoroge226@example.com,Michael,Njoroge,Lead,Social Media,Social Media,2025-02-19 00:00:00,,,Newsletter,Samuel Ndegwa,UrbanGlow,Kenya
+227,lilian.karanja227@example.com,Lilian,Karanja,Opportunity,Direct,,2025-09-22 00:00:00,2025-10-26,1025.76,Valentine Push,Samuel Ndegwa,Nairobi Retailers,Kenya
+228,peter.ouma228@example.com,Peter,Ouma,Opportunity,Paid Search,Paid Search,2025-08-30 00:00:00,2025-09-08,1070.45,Referral Program,Client Success Team,Nairobi Retailers,Kenya
+229,lilian.karanja229@example.com,Lilian,Karanja,Marketing Qualified Lead,Paid Search,Paid Search,2025-06-15 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,Coastal Beauty,Kenya
+230,brian.mutua230@example.com,Brian,Mutua,Lead,Direct,,2025-11-18 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,UrbanGlow,Kenya
+231,aisha.atieno231@example.com,Aisha,Atieno,Sales Qualified Lead,Email,,2025-08-06 00:00:00,,,Chiffon Brand Awareness,John Kamau,Coastal Beauty,Kenya
+232,esther.atieno232@example.com,Esther,Atieno,Opportunity,Referral,,2025-07-25 00:00:00,2025-08-14,690.81,Valentine Push,Client Success Team,Nairobi Retailers,Kenya
+233,grace.okello233@example.com,Grace,Okello,Opportunity,Referral,,2025-04-11 00:00:00,2025-05-14,703.17,Referral Program,Mercy Otieno,UrbanGlow,Kenya
+234,aisha.mutua234@example.com,Aisha,Mutua,Marketing Qualified Lead,Direct,,2025-07-30 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,Chiffon Cosmetics,Kenya
+235,fatuma.wanyoike235@example.com,Fatuma,Wanyoike,Opportunity,Social Media,Social Media,2025-09-28 00:00:00,2025-11-24,1087.08,New Store Launch,John Kamau,Nairobi Retailers,Kenya
+236,david.mwangi236@example.com,David,Mwangi,Opportunity,Paid Search,Paid Search,2025-03-22 00:00:00,2025-03-30,1413.55,Chiffon Brand Awareness,Jane Wanjiru,Coastal Beauty,Kenya
+237,david.mwangi237@example.com,David,Mwangi,Lead,Social Media,Social Media,2025-02-24 00:00:00,,,Organic Search,Mercy Otieno,BeautyWorld KE,Kenya
+238,paul.mutua238@example.com,Paul,Mutua,Customer,Organic Search,,2025-11-05 00:00:00,2025-11-18,838.76,Holiday Promo Q4,Mercy Otieno,BeautyWorld KE,Kenya
+239,michael.mutua239@example.com,Michael,Mutua,Sales Qualified Lead,Organic Search,,2025-12-31 00:00:00,,,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+240,wanjiru.njoroge240@example.com,Wanjiru,Njoroge,Marketing Qualified Lead,Referral,,2025-05-06 00:00:00,,,New Store Launch,Mercy Otieno,UrbanGlow,Kenya
+241,paul.njoroge241@example.com,Paul,Njoroge,Sales Qualified Lead,Paid Search,Paid Search,2025-06-22 00:00:00,,,Referral Boost,John Kamau,Nairobi Retailers,Kenya
+242,michael.okello242@example.com,Michael,Okello,Opportunity,Social Media,Social Media,2025-05-20 00:00:00,2025-07-15,1359.88,New Store Launch,Client Success Team,Coastal Beauty,Kenya
+243,fatuma.wanyoike243@example.com,Fatuma,Wanyoike,Customer,Paid Search,Paid Search,2025-08-21 00:00:00,2025-10-10,1146.62,New Store Launch,Mercy Otieno,UrbanGlow,Kenya
+244,joseph.kiptoo244@example.com,Joseph,Kiptoo,Customer,Referral,,2025-03-02 00:00:00,2025-04-26,1269.65,Seasonal Email,John Kamau,UrbanGlow,Kenya
+245,grace.kamau245@example.com,Grace,Kamau,Lead,Paid Search,Paid Search,2025-08-18 00:00:00,,,New Store Launch,Client Success Team,BeautyWorld KE,Kenya
+246,nancy.kariuki246@example.com,Nancy,Kariuki,Marketing Qualified Lead,Organic Search,,2025-05-17 00:00:00,,,New Store Launch,Jane Wanjiru,Nairobi Retailers,Kenya
+247,peter.kariuki247@example.com,Peter,Kariuki,Marketing Qualified Lead,Paid Search,Paid Search,2025-09-17 00:00:00,,,Newsletter,Samuel Ndegwa,Nairobi Retailers,Kenya
+248,fatuma.ouma248@example.com,Fatuma,Ouma,Lead,Organic Search,,2025-03-18 00:00:00,,,New Store Launch,Jane Wanjiru,BeautyWorld KE,Kenya
+249,paul.mutua249@example.com,Paul,Mutua,Customer,Organic Search,,2025-07-23 00:00:00,2025-09-18,1378.71,Holiday Promo Q4,Jane Wanjiru,Chiffon Cosmetics,Kenya
+250,david.maina250@example.com,David,Maina,Lead,Paid Search,Paid Search,2025-08-28 00:00:00,,,New Store Launch,Jane Wanjiru,Nairobi Retailers,Kenya
+251,mary.ouma251@example.com,Mary,Ouma,Lead,Direct,,2025-08-07 00:00:00,,,Referral Boost,Mercy Otieno,BeautyWorld KE,Kenya
+252,peter.kiptoo252@example.com,Peter,Kiptoo,Marketing Qualified Lead,Social Media,Social Media,2025-09-25 00:00:00,,,Newsletter,John Kamau,BeautyWorld KE,Kenya
+253,joseph.wanyoike253@example.com,Joseph,Wanyoike,Marketing Qualified Lead,Referral,,2025-10-26 00:00:00,,,Valentine Push,John Kamau,BeautyWorld KE,Kenya
+254,joseph.atieno254@example.com,Joseph,Atieno,Sales Qualified Lead,Email,,2025-06-22 00:00:00,,,Valentine Push,Jane Wanjiru,UrbanGlow,Kenya
+255,michael.njoroge255@example.com,Michael,Njoroge,Customer,Email,,2025-04-09 00:00:00,2025-05-08,1967.61,Seasonal Email,Jane Wanjiru,BeautyWorld KE,Kenya
+256,michael.ouma256@example.com,Michael,Ouma,Lead,Referral,,2025-03-08 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,Chiffon Cosmetics,Kenya
+257,aisha.kariuki257@example.com,Aisha,Kariuki,Marketing Qualified Lead,Paid Search,Paid Search,2025-01-18 00:00:00,,,Valentine Push,Client Success Team,Coastal Beauty,Kenya
+258,david.kariuki258@example.com,David,Kariuki,Lead,Paid Search,Paid Search,2025-08-13 00:00:00,,,Newsletter,Samuel Ndegwa,BeautyWorld KE,Kenya
+259,aisha.kiptoo259@example.com,Aisha,Kiptoo,Sales Qualified Lead,Organic Search,,2025-09-24 00:00:00,,,Organic Search,Samuel Ndegwa,UrbanGlow,Kenya
+260,joseph.atieno260@example.com,Joseph,Atieno,Customer,Paid Search,Paid Search,2025-05-05 00:00:00,2025-07-02,2603.58,Referral Boost,Samuel Ndegwa,UrbanGlow,Kenya
+261,michael.njoroge261@example.com,Michael,Njoroge,Marketing Qualified Lead,Organic Search,,2025-07-01 00:00:00,,,Newsletter,Jane Wanjiru,UrbanGlow,Kenya
+262,james.mwangi262@example.com,James,Mwangi,Opportunity,Organic Search,,2025-05-09 00:00:00,2025-05-30,1421.56,Seasonal Email,John Kamau,Nairobi Retailers,Kenya
+263,brian.otieno263@example.com,Brian,Otieno,Marketing Qualified Lead,Organic Search,,2025-02-24 00:00:00,,,New Store Launch,Mercy Otieno,BeautyWorld KE,Kenya
+264,joseph.otieno264@example.com,Joseph,Otieno,Sales Qualified Lead,Email,,2025-06-13 00:00:00,,,Newsletter,Client Success Team,Nairobi Retailers,Kenya
+265,nancy.kamau265@example.com,Nancy,Kamau,Marketing Qualified Lead,Organic Search,,2025-10-26 00:00:00,,,New Store Launch,John Kamau,UrbanGlow,Kenya
+266,aisha.kamau266@example.com,Aisha,Kamau,Marketing Qualified Lead,Social Media,Social Media,2025-02-27 00:00:00,,,New Store Launch,John Kamau,UrbanGlow,Kenya
+267,mary.atieno267@example.com,Mary,Atieno,Customer,Paid Search,Paid Search,2025-04-25 00:00:00,2025-06-02,1332.11,Referral Boost,Client Success Team,UrbanGlow,Kenya
+268,david.mwangi268@example.com,David,Mwangi,Marketing Qualified Lead,Direct,,2025-02-01 00:00:00,,,Referral Boost,Jane Wanjiru,UrbanGlow,Kenya
+269,lilian.kariuki269@example.com,Lilian,Kariuki,Marketing Qualified Lead,Paid Search,Paid Search,2025-02-18 00:00:00,,,New Store Launch,Client Success Team,Chiffon Cosmetics,Kenya
+270,david.kiptoo270@example.com,David,Kiptoo,Customer,Direct,,2025-10-24 00:00:00,2025-11-02,2442.46,Holiday Promo Q4,Samuel Ndegwa,Nairobi Retailers,Kenya
+271,fatuma.maina271@example.com,Fatuma,Maina,Marketing Qualified Lead,Direct,,2025-02-21 00:00:00,,,Newsletter,Samuel Ndegwa,Coastal Beauty,Kenya
+272,paul.njoroge272@example.com,Paul,Njoroge,Marketing Qualified Lead,Paid Search,Paid Search,2025-05-14 00:00:00,,,Holiday Promo Q4,Jane Wanjiru,UrbanGlow,Kenya
+273,aisha.kariuki273@example.com,Aisha,Kariuki,Lead,Email,,2025-01-28 00:00:00,,,Organic Search,Samuel Ndegwa,BeautyWorld KE,Kenya
+274,joseph.maina274@example.com,Joseph,Maina,Lead,Email,,2025-02-20 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Chiffon Cosmetics,Kenya
+275,aisha.okello275@example.com,Aisha,Okello,Sales Qualified Lead,Referral,,2025-03-30 00:00:00,,,Organic Search,Client Success Team,Chiffon Cosmetics,Kenya
+276,michael.mutua276@example.com,Michael,Mutua,Marketing Qualified Lead,Social Media,Social Media,2025-08-08 00:00:00,,,Referral Boost,Mercy Otieno,Nairobi Retailers,Kenya
+277,david.maina277@example.com,David,Maina,Marketing Qualified Lead,Organic Search,,2025-07-23 00:00:00,,,Newsletter,Mercy Otieno,BeautyWorld KE,Kenya
+278,james.kariuki278@example.com,James,Kariuki,Opportunity,Organic Search,,2025-08-30 00:00:00,2025-10-18,785.05,New Store Launch,Client Success Team,Nairobi Retailers,Kenya
+279,nancy.mutua279@example.com,Nancy,Mutua,Marketing Qualified Lead,Organic Search,,2025-12-02 00:00:00,,,Valentine Push,Mercy Otieno,BeautyWorld KE,Kenya
+280,aisha.njoroge280@example.com,Aisha,Njoroge,Marketing Qualified Lead,Direct,,2025-09-25 00:00:00,,,Referral Boost,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+281,aisha.kiptoo281@example.com,Aisha,Kiptoo,Sales Qualified Lead,Paid Search,Paid Search,2025-11-15 00:00:00,,,Organic Search,Jane Wanjiru,BeautyWorld KE,Kenya
+282,wanjiru.maina282@example.com,Wanjiru,Maina,Customer,Social Media,Social Media,2025-05-13 00:00:00,2025-06-17,1861.27,Referral Program,John Kamau,UrbanGlow,Kenya
+283,grace.otieno283@example.com,Grace,Otieno,Lead,Social Media,Social Media,2025-02-27 00:00:00,,,New Store Launch,Jane Wanjiru,Coastal Beauty,Kenya
+284,james.kamau284@example.com,James,Kamau,Customer,Organic Search,,2025-12-18 00:00:00,2025-12-15,904.24,Seasonal Email,Samuel Ndegwa,UrbanGlow,Kenya
+285,aisha.kariuki285@example.com,Aisha,Kariuki,Customer,Email,,2025-10-08 00:00:00,2025-11-29,1676.38,Referral Program,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+286,grace.kariuki286@example.com,Grace,Kariuki,Opportunity,Organic Search,,2025-06-07 00:00:00,2025-07-19,1102.84,Seasonal Email,John Kamau,UrbanGlow,Kenya
+287,nancy.kiptoo287@example.com,Nancy,Kiptoo,Sales Qualified Lead,Direct,,2025-01-07 00:00:00,,,New Store Launch,John Kamau,UrbanGlow,Kenya
+288,nancy.kiptoo288@example.com,Nancy,Kiptoo,Opportunity,Paid Search,Paid Search,2025-04-24 00:00:00,2025-06-21,1086.39,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+289,grace.otieno289@example.com,Grace,Otieno,Customer,Organic Search,,2025-05-30 00:00:00,2025-07-12,1726.19,Referral Program,John Kamau,Coastal Beauty,Kenya
+290,esther.okello290@example.com,Esther,Okello,Marketing Qualified Lead,Referral,,2025-04-02 00:00:00,,,Organic Search,Mercy Otieno,UrbanGlow,Kenya
+291,aisha.atieno291@example.com,Aisha,Atieno,Marketing Qualified Lead,Paid Search,Paid Search,2025-07-10 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,Coastal Beauty,Kenya
+292,mary.kamau292@example.com,Mary,Kamau,Lead,Email,,2025-10-13 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Coastal Beauty,Kenya
+293,nancy.wanyoike293@example.com,Nancy,Wanyoike,Lead,Organic Search,,2025-05-14 00:00:00,,,Valentine Push,Mercy Otieno,Coastal Beauty,Kenya
+294,joseph.kariuki294@example.com,Joseph,Kariuki,Sales Qualified Lead,Email,,2025-01-04 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,Coastal Beauty,Kenya
+295,fatuma.karanja295@example.com,Fatuma,Karanja,Lead,Organic Search,,2025-09-19 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Chiffon Cosmetics,Kenya
+296,nancy.mutua296@example.com,Nancy,Mutua,Opportunity,Referral,,2025-08-14 00:00:00,2025-09-07,1607.88,Chiffon Brand Awareness,John Kamau,BeautyWorld KE,Kenya
+297,michael.karanja297@example.com,Michael,Karanja,Customer,Email,,2025-08-27 00:00:00,2025-09-30,1886.15,Seasonal Email,John Kamau,Coastal Beauty,Kenya
+298,lilian.kamau298@example.com,Lilian,Kamau,Lead,Paid Search,Paid Search,2025-05-19 00:00:00,,,Newsletter,Jane Wanjiru,Coastal Beauty,Kenya
+299,brian.atieno299@example.com,Brian,Atieno,Marketing Qualified Lead,Direct,,2025-11-09 00:00:00,,,Referral Boost,Jane Wanjiru,BeautyWorld KE,Kenya
+300,joseph.kariuki300@example.com,Joseph,Kariuki,Customer,Social Media,Social Media,2025-04-02 00:00:00,2025-04-19,1275.75,Holiday Promo Q4,Jane Wanjiru,UrbanGlow,Kenya
+301,aisha.njoroge301@example.com,Aisha,Njoroge,Marketing Qualified Lead,Direct,,2025-04-09 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,BeautyWorld KE,Kenya
+302,fatuma.njoroge302@example.com,Fatuma,Njoroge,Opportunity,Social Media,Social Media,2025-02-17 00:00:00,2025-03-18,2608.51,Seasonal Email,Jane Wanjiru,UrbanGlow,Kenya
+303,james.karanja303@example.com,James,Karanja,Sales Qualified Lead,Referral,,2025-05-20 00:00:00,,,Referral Boost,Client Success Team,Coastal Beauty,Kenya
+304,grace.karanja304@example.com,Grace,Karanja,Sales Qualified Lead,Paid Search,Paid Search,2025-08-31 00:00:00,,,Referral Boost,Jane Wanjiru,BeautyWorld KE,Kenya
+305,david.kiptoo305@example.com,David,Kiptoo,Lead,Email,,2025-06-26 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,Coastal Beauty,Kenya
+306,aisha.okello306@example.com,Aisha,Okello,Marketing Qualified Lead,Paid Search,Paid Search,2025-01-23 00:00:00,,,Valentine Push,Mercy Otieno,Nairobi Retailers,Kenya
+307,michael.njoroge307@example.com,Michael,Njoroge,Marketing Qualified Lead,Social Media,Social Media,2025-10-17 00:00:00,,,New Store Launch,Jane Wanjiru,Coastal Beauty,Kenya
+308,aisha.wanyoike308@example.com,Aisha,Wanyoike,Sales Qualified Lead,Social Media,Social Media,2025-06-08 00:00:00,,,Referral Boost,John Kamau,Nairobi Retailers,Kenya
+309,david.maina309@example.com,David,Maina,Opportunity,Email,,2025-11-15 00:00:00,2025-12-17,1705.01,Chiffon Brand Awareness,Mercy Otieno,Nairobi Retailers,Kenya
+310,joseph.maina310@example.com,Joseph,Maina,Marketing Qualified Lead,Organic Search,,2025-12-02 00:00:00,,,Holiday Promo Q4,Mercy Otieno,Chiffon Cosmetics,Kenya
+311,james.mutua311@example.com,James,Mutua,Customer,Paid Search,Paid Search,2025-08-27 00:00:00,2025-10-14,773.95,Valentine Push,Jane Wanjiru,Nairobi Retailers,Kenya
+312,joseph.njoroge312@example.com,Joseph,Njoroge,Customer,Referral,,2025-09-07 00:00:00,2025-10-25,646.09,Valentine Push,Mercy Otieno,Nairobi Retailers,Kenya
+313,joseph.kariuki313@example.com,Joseph,Kariuki,Opportunity,Direct,,2025-10-02 00:00:00,2025-10-15,1594.5,Seasonal Email,Client Success Team,Coastal Beauty,Kenya
+314,joseph.wanyoike314@example.com,Joseph,Wanyoike,Lead,Direct,,2025-11-24 00:00:00,,,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+315,nancy.kiptoo315@example.com,Nancy,Kiptoo,Sales Qualified Lead,Direct,,2025-07-12 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,BeautyWorld KE,Kenya
+316,lilian.mutua316@example.com,Lilian,Mutua,Opportunity,Direct,,2025-04-17 00:00:00,2025-06-07,1215.76,Valentine Push,Jane Wanjiru,Coastal Beauty,Kenya
+317,mary.kariuki317@example.com,Mary,Kariuki,Lead,Organic Search,,2025-07-10 00:00:00,,,Referral Boost,Jane Wanjiru,Chiffon Cosmetics,Kenya
+318,fatuma.mwangi318@example.com,Fatuma,Mwangi,Lead,Email,,2025-06-02 00:00:00,,,Valentine Push,Jane Wanjiru,UrbanGlow,Kenya
+319,michael.kamau319@example.com,Michael,Kamau,Customer,Paid Search,Paid Search,2025-10-12 00:00:00,2025-10-27,817.39,Seasonal Email,Client Success Team,Chiffon Cosmetics,Kenya
+320,brian.kamau320@example.com,Brian,Kamau,Customer,Referral,,2025-10-04 00:00:00,2025-10-20,854.14,New Store Launch,Client Success Team,UrbanGlow,Kenya
+321,nancy.otieno321@example.com,Nancy,Otieno,Sales Qualified Lead,Organic Search,,2025-02-25 00:00:00,,,Chiffon Brand Awareness,Samuel Ndegwa,UrbanGlow,Kenya
+322,nancy.atieno322@example.com,Nancy,Atieno,Opportunity,Referral,,2025-03-21 00:00:00,2025-04-22,699.34,Referral Boost,John Kamau,BeautyWorld KE,Kenya
+323,michael.okello323@example.com,Michael,Okello,Sales Qualified Lead,Organic Search,,2025-03-24 00:00:00,,,Newsletter,Mercy Otieno,Coastal Beauty,Kenya
+324,michael.maina324@example.com,Michael,Maina,Marketing Qualified Lead,Paid Search,Paid Search,2025-04-11 00:00:00,,,Organic Search,John Kamau,Chiffon Cosmetics,Kenya
+325,nancy.wanyoike325@example.com,Nancy,Wanyoike,Sales Qualified Lead,Direct,,2025-01-28 00:00:00,,,Valentine Push,John Kamau,UrbanGlow,Kenya
+326,joseph.atieno326@example.com,Joseph,Atieno,Customer,Direct,,2025-06-14 00:00:00,2025-07-23,722.41,New Store Launch,Jane Wanjiru,BeautyWorld KE,Kenya
+327,paul.okello327@example.com,Paul,Okello,Customer,Referral,,2025-10-26 00:00:00,2025-11-06,687.57,Referral Boost,Samuel Ndegwa,Nairobi Retailers,Kenya
+328,wanjiru.kariuki328@example.com,Wanjiru,Kariuki,Marketing Qualified Lead,Paid Search,Paid Search,2025-07-20 00:00:00,,,Newsletter,Jane Wanjiru,BeautyWorld KE,Kenya
+329,aisha.okello329@example.com,Aisha,Okello,Sales Qualified Lead,Social Media,Social Media,2025-05-26 00:00:00,,,Referral Boost,John Kamau,Chiffon Cosmetics,Kenya
+330,wanjiru.mwangi330@example.com,Wanjiru,Mwangi,Lead,Organic Search,,2025-08-04 00:00:00,,,Holiday Promo Q4,Mercy Otieno,UrbanGlow,Kenya
+331,wanjiru.kamau331@example.com,Wanjiru,Kamau,Customer,Organic Search,,2025-10-27 00:00:00,2025-11-30,766.43,Holiday Promo Q4,Samuel Ndegwa,Nairobi Retailers,Kenya
+332,fatuma.karanja332@example.com,Fatuma,Karanja,Opportunity,Social Media,Social Media,2025-02-18 00:00:00,2025-04-01,1876.03,Valentine Push,John Kamau,Coastal Beauty,Kenya
+333,mary.njoroge333@example.com,Mary,Njoroge,Marketing Qualified Lead,Email,,2025-01-07 00:00:00,,,Newsletter,Samuel Ndegwa,Coastal Beauty,Kenya
+334,joseph.kariuki334@example.com,Joseph,Kariuki,Customer,Email,,2025-01-03 00:00:00,2025-01-24,741.25,Seasonal Email,Client Success Team,Chiffon Cosmetics,Kenya
+335,mary.okello335@example.com,Mary,Okello,Customer,Organic Search,,2025-07-14 00:00:00,2025-09-05,1302.98,Valentine Push,Client Success Team,BeautyWorld KE,Kenya
+336,david.okello336@example.com,David,Okello,Marketing Qualified Lead,Email,,2025-12-23 00:00:00,,,Organic Search,John Kamau,Nairobi Retailers,Kenya
+337,nancy.njoroge337@example.com,Nancy,Njoroge,Lead,Referral,,2025-06-25 00:00:00,,,Referral Boost,Client Success Team,Chiffon Cosmetics,Kenya
+338,james.ouma338@example.com,James,Ouma,Lead,Email,,2025-03-12 00:00:00,,,Organic Search,Mercy Otieno,Nairobi Retailers,Kenya
+339,wanjiru.otieno339@example.com,Wanjiru,Otieno,Marketing Qualified Lead,Organic Search,,2025-01-28 00:00:00,,,New Store Launch,John Kamau,UrbanGlow,Kenya
+340,esther.atieno340@example.com,Esther,Atieno,Marketing Qualified Lead,Paid Search,Paid Search,2025-04-30 00:00:00,,,Chiffon Brand Awareness,John Kamau,BeautyWorld KE,Kenya
+341,aisha.atieno341@example.com,Aisha,Atieno,Lead,Direct,,2025-10-09 00:00:00,,,Newsletter,Jane Wanjiru,Nairobi Retailers,Kenya
+342,wanjiru.karanja342@example.com,Wanjiru,Karanja,Customer,Direct,,2025-09-22 00:00:00,2025-10-12,1493.32,Holiday Promo Q4,John Kamau,UrbanGlow,Kenya
+343,michael.karanja343@example.com,Michael,Karanja,Marketing Qualified Lead,Paid Search,Paid Search,2025-04-03 00:00:00,,,Organic Search,Samuel Ndegwa,Nairobi Retailers,Kenya
+344,paul.maina344@example.com,Paul,Maina,Marketing Qualified Lead,Paid Search,Paid Search,2025-11-07 00:00:00,,,Valentine Push,Jane Wanjiru,BeautyWorld KE,Kenya
+345,joseph.okello345@example.com,Joseph,Okello,Lead,Paid Search,Paid Search,2025-12-06 00:00:00,,,Valentine Push,Jane Wanjiru,Coastal Beauty,Kenya
+346,wanjiru.kamau346@example.com,Wanjiru,Kamau,Opportunity,Paid Search,Paid Search,2025-11-16 00:00:00,2025-12-12,1806.59,Holiday Promo Q4,Client Success Team,Nairobi Retailers,Kenya
+347,aisha.maina347@example.com,Aisha,Maina,Customer,Referral,,2025-03-16 00:00:00,2025-04-13,1801.82,Referral Program,Jane Wanjiru,Coastal Beauty,Kenya
+348,grace.kamau348@example.com,Grace,Kamau,Opportunity,Social Media,Social Media,2025-03-24 00:00:00,2025-04-15,1344.67,Seasonal Email,John Kamau,Nairobi Retailers,Kenya
+349,mary.njoroge349@example.com,Mary,Njoroge,Marketing Qualified Lead,Email,,2025-06-16 00:00:00,,,Referral Boost,Samuel Ndegwa,Nairobi Retailers,Kenya
+350,michael.kiptoo350@example.com,Michael,Kiptoo,Marketing Qualified Lead,Email,,2025-03-26 00:00:00,,,Organic Search,Client Success Team,UrbanGlow,Kenya
+351,brian.karanja351@example.com,Brian,Karanja,Marketing Qualified Lead,Referral,,2025-09-28 00:00:00,,,New Store Launch,Samuel Ndegwa,BeautyWorld KE,Kenya
+352,aisha.mwangi352@example.com,Aisha,Mwangi,Marketing Qualified Lead,Social Media,Social Media,2025-06-10 00:00:00,,,New Store Launch,Jane Wanjiru,Coastal Beauty,Kenya
+353,joseph.njoroge353@example.com,Joseph,Njoroge,Customer,Social Media,Social Media,2025-03-05 00:00:00,2025-04-06,1535.29,Referral Boost,Samuel Ndegwa,Coastal Beauty,Kenya
+354,esther.okello354@example.com,Esther,Okello,Lead,Organic Search,,2025-03-27 00:00:00,,,Referral Boost,Mercy Otieno,Nairobi Retailers,Kenya
+355,mary.karanja355@example.com,Mary,Karanja,Lead,Organic Search,,2025-06-01 00:00:00,,,Newsletter,John Kamau,BeautyWorld KE,Kenya
+356,mary.ouma356@example.com,Mary,Ouma,Sales Qualified Lead,Paid Search,Paid Search,2025-02-15 00:00:00,,,Chiffon Brand Awareness,Client Success Team,UrbanGlow,Kenya
+357,brian.ouma357@example.com,Brian,Ouma,Lead,Social Media,Social Media,2025-10-07 00:00:00,,,Newsletter,Samuel Ndegwa,Coastal Beauty,Kenya
+358,esther.atieno358@example.com,Esther,Atieno,Lead,Paid Search,Paid Search,2025-03-19 00:00:00,,,New Store Launch,Mercy Otieno,UrbanGlow,Kenya
+359,brian.kiptoo359@example.com,Brian,Kiptoo,Customer,Social Media,Social Media,2025-04-25 00:00:00,2025-05-20,1790.63,Holiday Promo Q4,Samuel Ndegwa,BeautyWorld KE,Kenya
+360,david.kariuki360@example.com,David,Kariuki,Opportunity,Email,,2025-06-10 00:00:00,2025-07-27,1999.7,Referral Boost,John Kamau,Chiffon Cosmetics,Kenya
+361,james.kamau361@example.com,James,Kamau,Lead,Social Media,Social Media,2025-08-27 00:00:00,,,Valentine Push,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+362,lilian.mwangi362@example.com,Lilian,Mwangi,Sales Qualified Lead,Direct,,2025-12-21 00:00:00,,,New Store Launch,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+363,wanjiru.njoroge363@example.com,Wanjiru,Njoroge,Opportunity,Organic Search,,2025-06-10 00:00:00,2025-07-27,1427.18,Seasonal Email,Mercy Otieno,UrbanGlow,Kenya
+364,mary.mutua364@example.com,Mary,Mutua,Sales Qualified Lead,Email,,2025-08-05 00:00:00,,,Newsletter,Jane Wanjiru,BeautyWorld KE,Kenya
+365,wanjiru.atieno365@example.com,Wanjiru,Atieno,Opportunity,Referral,,2025-12-22 00:00:00,2025-12-04,1477.66,New Store Launch,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+366,joseph.kariuki366@example.com,Joseph,Kariuki,Marketing Qualified Lead,Social Media,Social Media,2025-01-02 00:00:00,,,Chiffon Brand Awareness,Jane Wanjiru,BeautyWorld KE,Kenya
+367,brian.ouma367@example.com,Brian,Ouma,Marketing Qualified Lead,Referral,,2025-04-02 00:00:00,,,Valentine Push,Jane Wanjiru,Coastal Beauty,Kenya
+368,mary.mutua368@example.com,Mary,Mutua,Marketing Qualified Lead,Organic Search,,2025-07-15 00:00:00,,,Holiday Promo Q4,Client Success Team,Nairobi Retailers,Kenya
+369,michael.wanyoike369@example.com,Michael,Wanyoike,Lead,Organic Search,,2025-02-03 00:00:00,,,Valentine Push,John Kamau,Coastal Beauty,Kenya
+370,fatuma.kiptoo370@example.com,Fatuma,Kiptoo,Marketing Qualified Lead,Organic Search,,2025-12-16 00:00:00,,,Holiday Promo Q4,Jane Wanjiru,Nairobi Retailers,Kenya
+371,joseph.okello371@example.com,Joseph,Okello,Marketing Qualified Lead,Referral,,2025-01-18 00:00:00,,,Newsletter,Mercy Otieno,Chiffon Cosmetics,Kenya
+372,michael.mwangi372@example.com,Michael,Mwangi,Sales Qualified Lead,Referral,,2025-02-01 00:00:00,,,Holiday Promo Q4,Client Success Team,UrbanGlow,Kenya
+373,nancy.wanyoike373@example.com,Nancy,Wanyoike,Marketing Qualified Lead,Paid Search,Paid Search,2025-01-23 00:00:00,,,Referral Boost,Jane Wanjiru,UrbanGlow,Kenya
+374,esther.kamau374@example.com,Esther,Kamau,Lead,Referral,,2025-04-23 00:00:00,,,Organic Search,Mercy Otieno,Chiffon Cosmetics,Kenya
+375,mary.ouma375@example.com,Mary,Ouma,Marketing Qualified Lead,Organic Search,,2025-10-12 00:00:00,,,Holiday Promo Q4,Client Success Team,Coastal Beauty,Kenya
+376,peter.mutua376@example.com,Peter,Mutua,Lead,Referral,,2025-11-29 00:00:00,,,Valentine Push,Mercy Otieno,Nairobi Retailers,Kenya
+377,peter.njoroge377@example.com,Peter,Njoroge,Sales Qualified Lead,Direct,,2025-12-25 00:00:00,,,Newsletter,John Kamau,BeautyWorld KE,Kenya
+378,david.kamau378@example.com,David,Kamau,Lead,Social Media,Social Media,2025-03-18 00:00:00,,,Organic Search,Client Success Team,UrbanGlow,Kenya
+379,peter.kariuki379@example.com,Peter,Kariuki,Opportunity,Paid Search,Paid Search,2025-08-27 00:00:00,2025-09-19,2128.06,New Store Launch,John Kamau,Coastal Beauty,Kenya
+380,paul.okello380@example.com,Paul,Okello,Lead,Organic Search,,2025-02-06 00:00:00,,,Organic Search,John Kamau,Chiffon Cosmetics,Kenya
+381,mary.maina381@example.com,Mary,Maina,Lead,Referral,,2025-05-22 00:00:00,,,Chiffon Brand Awareness,John Kamau,BeautyWorld KE,Kenya
+382,wanjiru.maina382@example.com,Wanjiru,Maina,Customer,Email,,2025-05-16 00:00:00,2025-06-21,1677.79,Referral Boost,Jane Wanjiru,UrbanGlow,Kenya
+383,esther.ouma383@example.com,Esther,Ouma,Lead,Paid Search,Paid Search,2025-02-19 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,BeautyWorld KE,Kenya
+384,nancy.atieno384@example.com,Nancy,Atieno,Marketing Qualified Lead,Social Media,Social Media,2025-05-08 00:00:00,,,Newsletter,Jane Wanjiru,Chiffon Cosmetics,Kenya
+385,lilian.mwangi385@example.com,Lilian,Mwangi,Marketing Qualified Lead,Paid Search,Paid Search,2025-03-29 00:00:00,,,Chiffon Brand Awareness,Client Success Team,Nairobi Retailers,Kenya
+386,grace.wanyoike386@example.com,Grace,Wanyoike,Marketing Qualified Lead,Paid Search,Paid Search,2025-03-07 00:00:00,,,Newsletter,Client Success Team,Chiffon Cosmetics,Kenya
+387,wanjiru.njoroge387@example.com,Wanjiru,Njoroge,Sales Qualified Lead,Direct,,2025-05-04 00:00:00,,,Organic Search,Mercy Otieno,Coastal Beauty,Kenya
+388,fatuma.kiptoo388@example.com,Fatuma,Kiptoo,Customer,Referral,,2025-10-28 00:00:00,2025-12-09,1838.44,Referral Program,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+389,wanjiru.kariuki389@example.com,Wanjiru,Kariuki,Lead,Referral,,2025-12-27 00:00:00,,,Chiffon Brand Awareness,Client Success Team,UrbanGlow,Kenya
+390,grace.kiptoo390@example.com,Grace,Kiptoo,Lead,Direct,,2025-08-29 00:00:00,,,Referral Boost,Jane Wanjiru,Coastal Beauty,Kenya
+391,michael.otieno391@example.com,Michael,Otieno,Lead,Paid Search,Paid Search,2025-09-23 00:00:00,,,Valentine Push,Samuel Ndegwa,Coastal Beauty,Kenya
+392,paul.kiptoo392@example.com,Paul,Kiptoo,Customer,Direct,,2025-01-24 00:00:00,2025-02-11,1317.95,Referral Program,Client Success Team,UrbanGlow,Kenya
+393,wanjiru.ouma393@example.com,Wanjiru,Ouma,Marketing Qualified Lead,Referral,,2025-10-03 00:00:00,,,New Store Launch,Samuel Ndegwa,Chiffon Cosmetics,Kenya
+394,grace.mutua394@example.com,Grace,Mutua,Customer,Social Media,Social Media,2025-01-16 00:00:00,2025-01-27,2155.68,Valentine Push,Mercy Otieno,BeautyWorld KE,Kenya
+395,nancy.wanyoike395@example.com,Nancy,Wanyoike,Lead,Social Media,Social Media,2025-12-12 00:00:00,,,Chiffon Brand Awareness,Mercy Otieno,Nairobi Retailers,Kenya
+396,grace.okello396@example.com,Grace,Okello,Sales Qualified Lead,Organic Search,,2025-04-03 00:00:00,,,Referral Boost,Jane Wanjiru,Chiffon Cosmetics,Kenya
+397,lilian.kariuki397@example.com,Lilian,Kariuki,Customer,Referral,,2025-12-22 00:00:00,2025-12-27,2335.2,Referral Boost,Jane Wanjiru,BeautyWorld KE,Kenya
+398,paul.kiptoo398@example.com,Paul,Kiptoo,Lead,Email,,2025-06-05 00:00:00,,,Organic Search,Mercy Otieno,Chiffon Cosmetics,Kenya
+399,joseph.ouma399@example.com,Joseph,Ouma,Customer,Direct,,2025-04-08 00:00:00,2025-05-08,2307.98,Valentine Push,Samuel Ndegwa,BeautyWorld KE,Kenya
+400,peter.mwangi400@example.com,Peter,Mwangi,Customer,Social Media,Social Media,2025-04-17 00:00:00,2025-06-05,1219.03,Referral Program,Client Success Team,BeautyWorld KE,Kenya
