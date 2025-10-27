@@ -84,6 +84,15 @@ Chiffon-Marketing-Analytics-Dashboard/
 
 ---
 
+### 📊 Power BI Dashboards
+
+View the full dashboard or the static preview:
+
+📄 **Dashboard Preview (PDF):** [`chiffon_martketing_dashboard.pdf`](chiffon_martketing_dashboard.pdf)  
+💾 **Power BI File:** [`chiffon_martketing_dashboard.pbix`](chiffon_martketing_dashboard.pbix)
+
+---
+
 ## ✅ Summary
 
 This repository demonstrates a full marketing analytics workflow: from raw data extraction and automated ETL processing to interactive Power BI dashboards.  
