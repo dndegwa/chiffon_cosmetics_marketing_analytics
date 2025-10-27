@@ -5,7 +5,7 @@
 - [Tools & Technical Approach](#-tools--technical-approach)  
 - [Folder Structure](#-folder-structure)  
 - [ETL / Data Pipeline](#-etl--data-pipeline)  
-- [Video of ETL Workflow and Dashboard Navigation](#-video-of-etl--data-pipeline--powerbi-refresh-and-navigation)
+- [Video of ETL Workflow and Dashboard Navigation](#-video-of-etl--data-pipeline--powerbi-refresh-and-navigation) 
 - [Summary](#-summary)  
 
 ⚠️ **Note:** This repository demonstrates a marketing analytics system. All campaign data has been replaced with mock datasets to illustrate the approach and technical design while protecting confidential business information.
