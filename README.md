@@ -1,4 +1,4 @@
-# 💼 Chiffon Cosmetics – Marketing Performance Analytics Dashboard
+## 💼 Chiffon Cosmetics – Marketing Performance Analytics Dashboard
 
 📑 Table of Contents  
 - [Purpose & Business Value](#-purpose--business-value)  
@@ -80,7 +80,7 @@ Chiffon-Marketing-Analytics-Dashboard/
 
 ### 🎥 Video of ETL / Data Pipeline → PowerBI Refresh and Navigation
 
-[![Watch Video](https://img.youtube.com/vi/zHF1Lw1Dl8w/0.jpg)](https://youtu.be/zHF1Lw1Dl8w)
+[![Watch Video](https://img.youtube.com/vi/n48Z0Q-kjlk/0.jpg)](https://youtu.be/n48Z0Q-kjlk)
 
 ---
 
